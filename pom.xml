@@ -21,7 +21,7 @@
         <jwt.version>0.9.1</jwt.version>
         <mysql-connector-java.version>8.0.16</mysql-connector-java.version>
         <mybatis.version>2.0.1</mybatis.version>
-        <swagger.version>2.9.2</swagger.version>
+        <swagger.version>2.10.0</swagger.version>
     </properties>
 
     <dependencies>
